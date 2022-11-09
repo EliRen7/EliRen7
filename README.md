@@ -2,7 +2,6 @@
 > Thank you for taking the time to view my Github profile😄
 
 ### About ME
-<!--
 
 - 🔭 I’m currently working on a full stack application for cafe hopping in other countries. 
 - 🌱 I’m currently learning MongoDB, Express, ReactJS, and Node
