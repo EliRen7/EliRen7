@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a full stack application for cafe hopping in other countries. 
 - 🌱 I’m currently learning MongoDB, Express, ReactJS, and Node
 - 👯 I’m looking to collaborate on projects using ReactJS
-- 🤔 I’m looking for help with Cloudinary, image uploads, and API requests
+- 🤔 I’m looking for help with image uploads using Cloudinary, API requests, and testing
 - 💬 Ask me about Javascript and partner coding practice (CSS battle, Leetcode, CodeWars, HackerRank) 
 - ⚡ Fun fact: I hiked to the peak of the highest mountain in South Korea!
 
