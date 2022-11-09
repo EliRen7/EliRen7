@@ -15,5 +15,5 @@
 <a href = 'https://www.twitter.com/eliz_renderos'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
 <a href = 'https://www.github.com/EliRen7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
-> 22 Hactoberfest Badges!
+> 2022 Hactoberfest Badges!
 [![@eliren7's Holopin board](https://holopin.me/eliren7)](https://holopin.io/@eliren7)
