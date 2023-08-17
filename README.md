@@ -3,10 +3,10 @@
 
 ## About ME
 
-- 🔭 I’m currently working on a full stack application for cafe hopping in other countries. 
-- 🌱 I’m currently learning MongoDB, Express, ReactJS, and Node
+- 🔭 I’m currently working on an ecommece website. 
+- 🌱 I’m currently learning NextJS and Typescript
 - 👯 I’m looking to collaborate on projects using ReactJS
-- 🤔 I’m looking for help with image uploads using Cloudinary, API requests, and testing
+- 🤔 I’m looking for help with testing and coding pairing practice
 - 💬 Ask me about Javascript and partner coding practice (CSS battle, Leetcode, CodeWars, HackerRank) 
 - ⚡ Fun fact: I hiked to the peak of the highest mountain in South Korea!
 
