@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning NextJS and Typescript
 - 👯 I’m looking to collaborate on projects using ReactJS
 - 🤔 I’m looking for help with testing and coding pairing practice
-- 💬 Ask me about Javascript and partner coding practice (CSS battle, Leetcode, CodeWars, HackerRank) 
+- 💬 Ask me about Frontend Developement and partner coding practice (CSS battle, Leetcode, CodeWars, HackerRank) 
 - ⚡ Fun fact: I hiked to the peak of the highest mountain in South Korea!
 
 <h2> 📫 Connect with me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
