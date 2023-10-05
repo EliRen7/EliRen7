@@ -4,9 +4,9 @@
 ## About ME
 
 - 🔭 I’m currently working on an ecommece website. 
-- 🌱 I’m currently learning NextJS and Typescript
-- 👯 I’m looking to collaborate on projects using ReactJS
-- 🤔 I’m looking for help with testing and coding pairing practice
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to collaborate on any JS projects
+- 🤔 I’m looking for help with testing
 - 💬 Ask me about Frontend Developement and partner coding practice (CSS battle, Leetcode, CodeWars, HackerRank) 
 - ⚡ Fun fact: I hiked to the peak of the highest mountain in South Korea!
 
