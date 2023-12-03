@@ -4,7 +4,7 @@
 ## About ME
 
 - 🔭 I’m currently working on an ecommece website. 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Sanity Studio
 - 👯 I’m looking to particpate in Hackathons
 - 🤔 I’m looking for help with testing
 - 💬 Ask me about Frontend Developement and partner coding practices (CSS battle, Leetcode, CodeWars, HackerRank, etc) 
